@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-The Colorado Board of Elections requests the following tasks to complete the election audit of a recent local congressional election to determine the final results of the election. In addition, calculating each county's voter turnout, percentage, and determining the largest county turnout allows us to expand the Election Audit to include additional data that may be insightful for future elections.
+The Colorado Board of Elections requests the following tasks to complete the election audit of a recent local congressional election to determine the final results. In addition, calculating each county's voter turnout and percentages allows us to expand the Election Audit to include additional data that may be insightful for future elections.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -9,8 +9,8 @@ The Colorado Board of Elections requests the following tasks to complete the ele
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 6. Calculate each county's voter turnout.
-7. Calculate each county's percentage of votes to the total count.
-8. Determine the county with the largest turnout.
+7. Calculate each county's percentage of votes in relation to the total count.
+8. Determine the county with the largest voter turnout.
 
 ## Resources
 - Data Source: election_results.csv
