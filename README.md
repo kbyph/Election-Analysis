@@ -47,3 +47,4 @@ The analysis of the election shows that:
 The PyPoll_Challenge.py script can definitely be used for other elections because it analyzes each individual county and  candidate in the dataset with printed results. Expanding the Election Audit to include the county votes and turnout are also great for extra insight in regards to the targeted demographic area.
 
 Modifications to the original script will provide additional data for us to utilize. For example, we can modify the script  to cover all counties within a state, providing a deeper analysis for each specific county vote. Hence the script is flexible enough to cover all sizes of elections, big or small. The candidates can also be modified to include a larger scale of competition, spreading out the data set to analyze each indivual vote. Therefore I propose the election commission to adopt this script as a solution for statewide election audits. This application is flexible, customizable, and simple to analyze.
+
